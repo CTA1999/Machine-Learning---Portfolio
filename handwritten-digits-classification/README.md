@@ -19,8 +19,8 @@ Application: automatic reading of zip codes.
 5. Evaluate overall and per-digit accuracy using a confusion matrix.
 
 ## Results
-- Overall classification accuracy: **XX%**
-- Confusion matrix: ![confusion_matrix]
+- Overall classification accuracy: 93.97%
+- Confusion matrix: 
 
 ## Skills Demonstrated
 - Python (NumPy, Pandas, Matplotlib)
