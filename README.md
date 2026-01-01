@@ -16,5 +16,7 @@ business-focused problem solving.
 |-------|------------|------|
 |Handwritten Digit Classification | Built an SVD-based classifier to recognize handwritten digits using least-squares approximation and residual analysis | Python, NumPy, Pandas, Linear Algebra |
 
+| Multiple Linear Regression - NFL Quarterback Performance Prediction | Built and improved a regression model to predict QB passer ratings using engineered features. | Python, Pandas, NumPy, scikit-learn |
+
 
 📫 Contact: www.linkedin.com/in/ceciliaadeniran
