@@ -10,7 +10,8 @@ business-focused problem solving.
 - Data Visualization (Matplotlib, Seaborn)
 - Machine Learning
 - Statistics
-
+- Feature Engineering
+  
 ## Projects
 | Project | Description | Tools |
 |-------|------------|------|
