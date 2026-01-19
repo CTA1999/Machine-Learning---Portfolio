@@ -54,7 +54,10 @@ clf = TimeSeriesForestClassifier(
 clf.fit(X_train_nested, train_label)
 
 pred = clf.predict(X_test_nested)
+
+#load predictions to csv file
 predictions = pd.DataFrame(pred).to_csv('predictions.csv', index=False, header=False)
+
 
 
 
